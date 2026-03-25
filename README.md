@@ -5,7 +5,7 @@ This project is an AI-based Career Recommendation System that suggests suitable 
 
 The system combines:
 - Rule-based AI (decision-making logic)
-- Machine Learning (KNN classification)
+- Machine Learning (Classification-based approach)
 
 ---
 
@@ -16,7 +16,7 @@ Many students face confusion while choosing a career path due to lack of guidanc
 
 ## 🧠 Concepts Used
 - Artificial Intelligence (Rule-Based System)
-- Machine Learning (Classification using KNN)
+- Machine Learning (similarity-based classification)
 - Feature Engineering
 - Decision Making
 - Confidence Calculation
